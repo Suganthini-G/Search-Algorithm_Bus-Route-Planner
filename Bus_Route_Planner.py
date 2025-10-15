@@ -454,6 +454,6 @@ else:
 st.markdown("---")
 st.markdown("""
 <div style="text-align: center; color: #6b7280;">
-    <p>Search Algorithms | 258828H</p>
+    <p>Search Algorithms</p>
 </div>
 """, unsafe_allow_html=True)
